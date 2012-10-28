@@ -1,0 +1,19 @@
+# Zenburn scheme - Source: http://slinky.imukuppi.org/zenburnpage/
+CursorColour=#BFBFBF 
+ForegroundColour=#DCDCCC 
+BackgroundColour=#3F3F3F 
+Black=#3F3F3F 
+Red=#705050 
+Green=#60B48A 
+Yellow=#DFAF8F 
+Blue=#506070 
+Magenta=#DC8CC3 
+Cyan=#8CD0D3 
+White=#DCDCCC 
+BoldBlack=#709080 
+BoldRed=#DCA3A3 
+BoldGreen=#C3BF9F 
+BoldYellow=#F0DFAF 
+BoldBlue=#94BFF3 
+BoldMagenta=#EC93D3 
+BoldCyan=#93E0E3 
