@@ -6,10 +6,14 @@ color-theme-zenburn
 terminal color-theme-zenburn
 
 # how to use
- git clone https://github.com/sona-tar/color-theme-zenburn.git
- cd color-theme-zenburn
- sh zenburn.sh
+```sh
+$ git clone https://github.com/sona-tar/color-theme-zenburn.git
+$ cd color-theme-zenburn
+$ sh zenburn.sh
+```
 
 # how to use (for Mintty)
- cd color-theme-zenburn
- cat zenburn.minttyrc >> ~/.mintyrc
+```sh
+$ cd color-theme-zenburn
+$ cat zenburn.minttyrc >> ~/.mintyrc
+```
