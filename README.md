@@ -3,8 +3,6 @@ color-theme-zenburn
 
 ![zenburn](http://cdn-ak.f.st-hatena.com/images/fotolife/s/sona-zip/20121028/20121028222104_original.png)
 
-terminal color-theme-zenburn
-
 # how to use
 ```sh
 $ git clone https://github.com/sona-tar/color-theme-zenburn.git
